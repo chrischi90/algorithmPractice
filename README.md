@@ -1,0 +1,3 @@
+# algorithmPractice
+Algorithm scripting
+
